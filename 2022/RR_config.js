@@ -14,9 +14,9 @@ var config_data = `
       "Event":{
         "code":"e",
         "type":"event",
-        "defaultValue":"2022flwp",
+        "defaultValue":"2022Escanaba",
         "required":"true",
-        "disabled":"true"
+        "disabled":"false"
       },
       "Match Level":{
         "code":"l",
