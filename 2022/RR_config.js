@@ -201,9 +201,16 @@ var config_data = `
         "code":"co",
         "title": "Comments",
         "type":"text",
-        "size":15,
-        "maxSize":50
-      }
+        "size":30,
+        "maxSize":100
+      },
+      "Overall, out of 10 what would you rate this team" : {
+        "code":"co",
+        "title":"Comments",
+        "type":"text",
+        "size":10,
+        "maxsize":11
+      },
     }
   }
 }`;
